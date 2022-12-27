@@ -1,0 +1,10 @@
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/bootstrap-datepicker.min.js"></script>
+<script src="assets/js/swiper.min.js"></script>
+<script src="assets/js/isotope.pkgd.min.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/plugin/countto/jquery.appear.js"></script>
+<script src="assets/js/plugin/countto/jquery.countTo.js"></script>
+<script src="assets/js/custom.js"></script>
